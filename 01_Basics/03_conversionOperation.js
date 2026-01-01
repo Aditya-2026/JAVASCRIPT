@@ -24,3 +24,29 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(typeof stringNumber) //string
 console.log(stringNumber) // "33"
+
+
+// ** Operation ** 
+let value = 3
+let negvalue = -value
+console.log(negValue) // -3
+
+console.log( 3+5 ) //8
+console.log( "3" + 5 ) // "35"
+console.log( "3" - 5 ) // -2
+console.log( "3" * "5" ) // 15
+console.log( "10" / "2" ) // 5
+console.log( "3" * "Hello" ) // NaN
+console.log( "Hello" / "2" ) // NaN
+console.log( "Hello" + "World" ) // HelloWorld
+console.log("1"+2+2) //122
+console.log(1+2+"2") //32
+console.log( 5 + 3 * 2 / 4 ) //6.5
+
+let firstName = "Aditya"
+let lastName = "D"
+
+console.log( firstName + " " + lastName ) // Aditya D
+console.log(+true) //1
+console.log(+"") //0
+
