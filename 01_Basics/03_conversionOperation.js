@@ -50,3 +50,5 @@ console.log( firstName + " " + lastName ) // Aditya D
 console.log(+true) //1
 console.log(+"") //0
 
+//difference between increment operators
+
