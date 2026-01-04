@@ -24,5 +24,9 @@ const myfunction = function(){
 }
 console.log(typeof bigNumber);
 
+// ********************************************
+// Stack(Primtive)- store var,method calls   
+// heap(Non Primitive)- stores object ,give reference to obj  
 
+let myYoutubename = "AD"
  
