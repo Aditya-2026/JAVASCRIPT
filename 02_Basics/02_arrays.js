@@ -1,4 +1,4 @@
-const heros = ['Spiderman', 'Ironman', 'Hulk', 'Thor'];
+ const heros = ['Spiderman', 'Ironman', 'Hulk', 'Thor'];
 const dcHeros = ['Batman', 'Superman', 'Flash', 'Aquaman'];
 heros.push(dcHeros) // adds the entire dcHeros array as a single element
 console.log(heros[4][0]);

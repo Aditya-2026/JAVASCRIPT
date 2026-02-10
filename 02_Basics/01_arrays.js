@@ -1,4 +1,4 @@
-myArr = [4,5,7,8,9]
+myArr = [4,5,7,8,9] 
 console.log(myArr);
 arr1 = new Array("Aditya","B","C")
 console.log(arr1[0]);
