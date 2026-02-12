@@ -61,3 +61,5 @@ const {instructor : inst} = course
 
 // console.log(instructor);
 console.log(inst);
+
+
