@@ -15,3 +15,7 @@ while(index < arr.length){
     console.log(arr[index]);
     index++;
 }
+
+do {
+    //expression
+} while (condition);
